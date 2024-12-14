@@ -118,7 +118,3 @@ This project was conducted in a controlled environment for educational purposes 
 This project was completed as part of the **Ethical Hacking Training** provided by Internshala. Special thanks to the training team for creating a realistic web application for practical learning.
 
 ---
-
-## Demo
-### Check the Project Demo by clicking the link below:
-[![Watch the Demo](https://img.youtube.com/vi/wC-ngzk1JAs/0.jpg)](https://youtu.be/wC-ngzk1JAs)
